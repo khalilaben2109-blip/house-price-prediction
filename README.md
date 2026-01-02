@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🏠 House Price Prediction - Advanced ML Project
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
@@ -240,3 +241,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ⭐ **Star this repository if you found it helpful!**
 
 🔗 **Live Demo**: [Add your deployed version link here]
+=======
+# house-price-prediction
+🏠 Advanced ML project for house price prediction with 5 algorithms, web interfaces, and 98.7% accuracy
+>>>>>>> 01f72017755e99b83ff0544889a8239547b10e8d
