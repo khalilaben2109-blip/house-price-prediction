@@ -1,0 +1,3 @@
+Model,RMSE,n_estimators,min_samples_split,min_samples_leaf,max_features,max_depth,fit_intercept
+Random Forest,3.3502932738986986,100.0,2.0,2.0,,20.0,
+Linear Regression,0.00509997245414302,,,,,,True

@@ -1,0 +1,2 @@
+dataset_source,n_samples,n_features,best_model,best_rmse,best_r2,avg_performance,models_tested
+california,20640,13,Linear Regression,15397.25995064045,0.9488656678945712,0.7519728728627961,5
